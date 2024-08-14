@@ -1,4 +1,3 @@
-Here is an enhanced version of the README file with a description of the files and an added image section for a Tableau logo:
 
 ---
 
@@ -6,7 +5,6 @@ Here is an enhanced version of the README file with a description of the files a
 
 This repository showcases a collection of interactive Tableau dashboards created to visualize and analyze data across different domains. These dashboards provide insights through visually appealing charts, graphs, and key performance indicators (KPIs) that are easy to understand and navigate.
 
-![Tableau Logo](./assets/tableau-logo.png)
 
 ### Features
 
